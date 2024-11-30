@@ -84,3 +84,6 @@ python Data_distribution.py --dataset_path "path_to_dataset"
 - **License:** [MIT License](LICENSE)
 
 ---
+
+
+Link of the dataset: https://drive.google.com/file/d/1JZjQxCRgolNnQ5aeu4-aYJighrnGGtdk/view?usp=drive_link
